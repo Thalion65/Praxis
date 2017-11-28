@@ -1,9 +1,9 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "physiotherapie-beyeroeh.de",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 19,
+    "uniqCompNum": 22,
     "versionPublish": "4.4.1",
     "theme": {
       "name": "mobirise4",
@@ -37,7 +37,9 @@
         "#22800b",
         "#030303"
       ]
-    }
+    },
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
